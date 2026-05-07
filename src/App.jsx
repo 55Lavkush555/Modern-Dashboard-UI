@@ -9,7 +9,7 @@ import menuIcon from "./assets/menu-icon.png";
 import './App.css'
 import ProgressRing from './components/ProgressRing.jsx';
 import CustomerDistribution from './components/CustomerDistribution.jsx';
-import MobileNav from './components/mobileNav.jsx';
+import MobileNav from './components/MobileNav.jsx';
 
 function App() {
   const [count, setCount] = useState(0)
